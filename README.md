@@ -1,9 +1,10 @@
 ## 我的 Github Star 整理
 
-> 整理至 allmobilize / amazeui
+> 整理至 justjavac / awesome-firebase
 
 ### 一、前端工程相关
 
+- [fex-team / fis](https://github.com/fex-team/fis) 百度出品的前端集成解决方案
 - [sindresorhus / gulp-rev](https://github.com/sindresorhus/gulp-rev) Gulp 插件，给文件名加 MD5 戳
 - [unlight / gulp-cssimport](https://github.com/unlight/gulp-cssimport) Gulp 插件，处理 CSS 文件依赖
 - [babel / gulp-babel](https://github.com/babel/gulp-babel) Gulp Babel 插件，把 ES6 代码转为 ES5
@@ -15,6 +16,8 @@
 - [babel / babel](https://github.com/babel/babel) 可以使用 ES6 语法来写 Javascript
 - [postcss / postcss](https://github.com/postcss/postcss) 使用 Javascript 来写 CSS，但比 Sass、Less 等更强大
 - [stylus / stylus](https://github.com/stylus/stylus) Stylus 是一个革命性的语言，用来生成 CSS
+- [gfranko / amdclean](https://github.com/gfranko/amdclean) 把 AMD 代码转换为标准 Javascript 写法
+- [jrburke / almond](https://github.com/jrburke/almond) AMD API 最小实现
 
 ### 二、框架类库
 
@@ -32,6 +35,10 @@
 - [jonobr1 / two.js](https://github.com/jonobr1/two.js) 2D 绘图 API
 - [subprotocol / verlet-js](https://github.com/subprotocol/verlet-js) 一个 Javascript 物理引擎
 - [bendc / sprint](https://github.com/bendc/sprint) 一个轻量级的类似 jQuery 的库
+- [shixy / Jingle](https://github.com/shixy/Jingle) 一个基于轻量级的移动 WebApp  框架
+- [spine / spine](https://github.com/spine/spine) 一个轻量级 MVC 库
+- [anijs / anijs](https://github.com/anijs/anijs) 一个不需要编程的提升网站交互效果的库
+- [zhaoda / spa](https://github.com/zhaoda/spa) 为构建 WebApp 设计的路由控制和视图转换框架
 - [jgallen23 / routie](https://github.com/jgallen23/routie) 一个轻量级的 Javascript hash 路由控制器
 - [flatiron / director](https://github.com/flatiron/director) 同构 URL 路由控制器（服务端和客户端）
 - [browserstate / history.js](https://github.com/browserstate/history.js) 兼容各种浏览器的 History/State APIs 封装
@@ -46,7 +53,7 @@
 - [addyosmani / basket.js](https://github.com/addyosmani/basket.js) 通过 localStorage 存取文件缓存的库
 - [nolimits4web / Swiper](https://github.com/nolimits4web/Swiper) 一个非常强大的创建移动端轮播等功能的框架
 - [be-fe / iSlider](https://github.com/be-fe/iSlider) 一个创建移动端轮播功能的库
-- [facebook / react-native](https://github.com/facebook/react-native) 用 React 框架来开发原生应用
+- [facebook / react](https://github.com/facebook/react) Facebook 出品的一个前端框架
 - [Lobos / react-ui](https://github.com/Lobos/react-ui) React 组件集合
 - [riot / riot](https://github.com/riot/riot) 类似 React 的 UI 库
 - [zynga / scroller](https://github.com/zynga/scroller) 实现带加速度的滚动缩放，包括 HTML 和 Canvas
@@ -56,6 +63,7 @@
 - [Polymer / polymer](https://github.com/Polymer/polymer)  web components polyfill
 - [mozilla / nunjucks](https://github.com/mozilla/nunjucks) 一个 Javascript 模板引擎，类似 jinja2 的继承和异步控制等
 - [paularmstrong / swig](https://github.com/paularmstrong/swig) 一个类似 Django/jinja 语法的强大的 Javascript 模板引擎
+- [blueimp / JavaScript-Templates](https://github.com/blueimp/JavaScript-Templates) 一个小于 1KB 的 Javascript 模板引擎，前后端通用
 - [ftlabs / fastclick](https://github.com/ftlabs/fastclick) 处理触屏设备点击延迟问题
 
 #### 插件
@@ -67,11 +75,13 @@
 - [yanhaijing / zepto.fullpage](https://github.com/yanhaijing/zepto.fullpage) 基于 Zepto 的移动端单页滚动插件
 - [gokercebeci / canvasResize](https://github.com/gokercebeci/canvasResize) 一个可以重置 Canvas 尺寸的插件，支持 jQuery 和 Zepto
 - [ximan / swipeSlide](https://github.com/ximan/swipeSlide) 一个简单的移动端轮播图插件
+- [atian25 / angular-lazyload](https://github.com/atian25/angular-lazyload) 按需加载 AngularJS 模块，支持 Sea.js 和 RequireJS
 
 #### CSS
 
 - [daneden / animate.css](https://github.com/daneden/animate.css) 一个跨浏览器的 CSS 动画库
 - [lukehaas / css-loaders](https://github.com/lukehaas/css-loaders) 单个元素实现的 CSS loading 动画，非常酷
+- [hojberg / cssarrowplease](https://github.com/hojberg/cssarrowplease) 用 CSS 生成对话框箭头
 
 ### 三、学习参考
 
@@ -93,6 +103,8 @@
 - [naltatis / jade-syntax-docs](https://github.com/naltatis/jade-syntax-docs) Jade 模板语法
 - [promises-aplus / promises-spec](https://github.com/promises-aplus/promises-spec) Promises/A+ 规范
 - [youyudehexie / node123](https://github.com/youyudehexie/node123) NodeJS 中文资料导航
+- [justjavac / free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) 免费的中文编程书籍索引
+- [justjavac / awesome-firebase](https://github.com/justjavac/awesome-firebase) Firebase 相关文章索引
 
 #### 实例
 
@@ -109,6 +121,7 @@
 
 - [jayli/jayli.github.com](https://github.com/jayli/jayli.github.com) 拔赤博客
 - [maxzhang / maxzhang.github.com](https://github.com/maxzhang/maxzhang.github.com) MaxZhang 的博客
+- [fouber / blog](https://github.com/fouber/blog) 张云龙的博客
 
 ### 四、工具资源
 
@@ -132,6 +145,10 @@
 - [wiztools / rest-client](https://github.com/wiztools/rest-client) 测试接口的工具
 - [gnachman / iTerm2](https://github.com/gnachman/iTerm2) 一个非常强大的终端模拟器
 - [robbyrussell / oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) 一个开源的社区驱动的管理 zsh 配置的框架
+- [TimPietrusky / weloveiconfonts](https://github.com/TimPietrusky/weloveiconfonts) 开源的 Icon 字体
+- [juliandescottes / piskel](https://github.com/juliandescottes/piskel) 基于 Web 的雪碧图和像素画工具
+- [Vektah / CodeGlance](https://github.com/Vektah/CodeGlance) WebStorm 插件，在右侧边显示代码迷你地图
+- [johnlindquist / AceJump](https://github.com/johnlindquist/AceJump) WebStorm 插件，强大的页面内跳转插件
 
 ### 五、有意思的项目
 
@@ -153,9 +170,13 @@
 - [Flipboard / react-canvas](https://github.com/Flipboard/react-canvas) 使用 canvas 做高性能的渲染，基于 React
 - [rime / squirrel](https://github.com/rime/squirrel) 鼠须管，非常不错的一个输入法
 - [apache / thrift](https://github.com/apache/thrift) Facebook 实现的一种高效的、支持多种编程语言的远程服务调用的框架
+- [github / hubot](https://github.com/github/hubot) GitHub 的开源运维机器人
+- [mozilla / firefox-ios](https://github.com/mozilla/firefox-ios) Firefox for iOS
 
 ### 六、开发工具包
 
+- [driftyco / ionic](https://github.com/driftyco/ionic) 用 Javascript 写原生应用
+- [facebook / react-native](https://github.com/facebook/react-native) 用 React 框架来开发原生应用
 - [TencentYouTu / nodejs_sdk](https://github.com/TencentYouTu/nodejs_sdk) 腾讯优图人脸识别服务 Node SDK
 - [bugtags / Bugtags-iOS](https://github.com/bugtags/Bugtags-iOS) BugTags iOS SDK
 - [bang590 / JSPatch](https://github.com/bang590/JSPatch) JSPatch bridge use for iOS hotfix
@@ -172,5 +193,8 @@
 - [rdash / rdash-angular](https://github.com/rdash/rdash-angular) RDash Admin 主题的 AngularJS 实现
 - [marmelab / ng-admin](https://github.com/marmelab/ng-admin) AngularJS Admin GUI
 - [jimakker / angular-express-bootstrap-seed](https://github.com/jimakker/angular-express-bootstrap-seed) 基于 Node Express、Bootstrap 的 AngularJS 应用
+- [ec3s / angular-adminui](https://github.com/ec3s/angular-adminui) 又一个 AngularJS Admin UI
 - [twostairs / paperwork](https://github.com/twostairs/paperwork) 基于 PHP 的搭建类似 Evernote、OneNote 等服务的开源项目
 - [esotalk / esoTalk](https://github.com/esotalk/esoTalk) 基于 PHP 和 MySQL 的论坛程序，快速简单强大
+- [h5bp / html5-boilerplate](https://github.com/h5bp/html5-boilerplate) 一个单纯的 HTML 模版
+- [mitsuhiko / jinja2](https://github.com/mitsuhiko/jinja2) Jinja2 模板引擎
