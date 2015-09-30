@@ -1,10 +1,11 @@
 ## 我的 Github Star 整理
 
-> 整理至 justjavac / awesome-firebase
+> 整理至 2015.09.30
 
 ### 一、前端工程相关
 
 - [fex-team / fis](https://github.com/fex-team/fis) 百度出品的前端集成解决方案
+- [gulpjs / gulp](https://github.com/gulpjs/gulp) 基于流的构建系统
 - [sindresorhus / gulp-rev](https://github.com/sindresorhus/gulp-rev) Gulp 插件，给文件名加 MD5 戳
 - [unlight / gulp-cssimport](https://github.com/unlight/gulp-cssimport) Gulp 插件，处理 CSS 文件依赖
 - [babel / gulp-babel](https://github.com/babel/gulp-babel) Gulp Babel 插件，把 ES6 代码转为 ES5
@@ -24,8 +25,7 @@
 #### Javascript
 
 - [koajs/koa](https://github.com/koajs/koa) 基于 Node.js 平台的下一代 web 开发框架
-- [BabylonJS / Babylon.js](https://github.com/BabylonJS/Babylon.js) 使用 HTML5 和 WebGL 开发 3D 游戏的 Javascript 框架
-- [gamelab / kiwi.js](https://github.com/gamelab/kiwi.js) HTML5 游戏框架
+- [yyx990803 / vue](https://github.com/yyx990803/vue) 一个创建 Web 交互界面的库，非常优雅
 - [ant-design / ant-design](https://github.com/ant-design/ant-design) 蚂蚁金服出品的一个 UI 设计语言
 - [OfficeDev / Office-UI-Fabric](https://github.com/OfficeDev/Office-UI-Fabric) 微软 Office 365 UI 框架
 - [kikinteractive / app](https://github.com/kikinteractive/app) 一个用来创建 webapp 的轻量级 Javascript UI 库
@@ -65,6 +65,8 @@
 - [paularmstrong / swig](https://github.com/paularmstrong/swig) 一个类似 Django/jinja 语法的强大的 Javascript 模板引擎
 - [blueimp / JavaScript-Templates](https://github.com/blueimp/JavaScript-Templates) 一个小于 1KB 的 Javascript 模板引擎，前后端通用
 - [ftlabs / fastclick](https://github.com/ftlabs/fastclick) 处理触屏设备点击延迟问题
+- [yoannmoinet / nipplejs](https://github.com/yoannmoinet/nipplejs) 虚拟摇杆
+- [ded / script.js](https://github.com/ded/script.js) 异步 Javascript 加载器和依赖管理器
 
 #### 插件
 
@@ -72,22 +74,30 @@
 - [hilios / jQuery.countdown](https://github.com/hilios/jQuery.countdown) 漂亮简单易用的 jQuery 倒计时插件
 - [Mottie / Keyboard](https://github.com/Mottie/Keyboard) 基于 jQuery UI 的虚拟键盘
 - [3epnm / drumjs](https://github.com/3epnm/drumjs) jQuery 插件，模拟 iOS 日期转盘
+- [ustbhuangyi / time-picker](https://github.com/ustbhuangyi/time-picker) 又一个 jQuery 插件，模拟 iOS 日期转盘
 - [yanhaijing / zepto.fullpage](https://github.com/yanhaijing/zepto.fullpage) 基于 Zepto 的移动端单页滚动插件
 - [gokercebeci / canvasResize](https://github.com/gokercebeci/canvasResize) 一个可以重置 Canvas 尺寸的插件，支持 jQuery 和 Zepto
 - [ximan / swipeSlide](https://github.com/ximan/swipeSlide) 一个简单的移动端轮播图插件
 - [atian25 / angular-lazyload](https://github.com/atian25/angular-lazyload) 按需加载 AngularJS 模块，支持 Sea.js 和 RequireJS
+- [cowboy / jquery-tiny-pubsub](https://github.com/cowboy/jquery-tiny-pubsub) 非常轻量的一个 jQuery 发布订阅模式实现
+- [ichord / Caret.js](https://github.com/ichord/Caret.js) 基于 jQuery 的计算光标位置的插件
+- [ichord / At.js](https://github.com/ichord/At.js) 基于 jQuery 的类似微博 @ 插件
+- [select2 / select2](https://github.com/select2/select2) 基于 jQuery 的一个强大的替代 select 的插件
+- [tarruda / bootstrap-datetimepicker](https://github.com/Eonasdan/bootstrap-datetimepicker) 基于 BootStrap 的日期插件
 
 #### CSS
 
 - [daneden / animate.css](https://github.com/daneden/animate.css) 一个跨浏览器的 CSS 动画库
 - [lukehaas / css-loaders](https://github.com/lukehaas/css-loaders) 单个元素实现的 CSS loading 动画，非常酷
 - [hojberg / cssarrowplease](https://github.com/hojberg/cssarrowplease) 用 CSS 生成对话框箭头
+- [cbracco/cardinal](https://github.com/cbracco/cardinal) 一个模块化的移动优先的 CSS 框架
 
 ### 三、学习参考
 
 #### 文档
 
 - [whatwg / html](https://github.com/whatwg/html) HTML 规范
+- [w3c-html-ig-zh / w3c-glossary](https://github.com/w3c-html-ig-zh/w3c-glossary) W3C翻译词汇表
 - [flyhigher139 / Git-Cheat-Sheet](https://github.com/flyhigher139/Git-Cheat-Sheet) Git-Cheat-Sheet 中文版
 - [nzakas / understandinges6](https://github.com/nzakas/understandinges6) 电子书《Understanding ECMAScript 6》
 - [doyoe / css-handbook](https://github.com/doyoe/css-handbook) 电子书《CSS 参考手册》
@@ -105,6 +115,14 @@
 - [youyudehexie / node123](https://github.com/youyudehexie/node123) NodeJS 中文资料导航
 - [justjavac / free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) 免费的中文编程书籍索引
 - [justjavac / awesome-firebase](https://github.com/justjavac/awesome-firebase) Firebase 相关文章索引
+- [substack / browserify-handbook](https://github.com/substack/browserify-handbook) Browserify 小书
+- [interagent / http-api-design](https://github.com/interagent/http-api-design) HTTP API 设计指南
+- [h5bp / Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) 前端面试问题集合
+- [jmcunningham / AngularJS-Learning](https://github.com/jmcunningham/AngularJS-Learning) AngularJS 学习资料集合
+- [ruanyf / es6tutorial](https://github.com/ruanyf/es6tutorial) 阮一峰《ECMAScript 6入门》
+- [ruanyf / jstutorial](https://github.com/ruanyf/jstutorial) 阮一峰《JavaScript 标准参考教程》
+- [jtyjty99999/mobileTech](https://github.com/jtyjty99999/mobileTech) 这个项目收集移动端开发所需要的一些资源与小技巧
+- [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) 前端开发资源列表
 
 #### 实例
 
@@ -149,6 +167,15 @@
 - [juliandescottes / piskel](https://github.com/juliandescottes/piskel) 基于 Web 的雪碧图和像素画工具
 - [Vektah / CodeGlance](https://github.com/Vektah/CodeGlance) WebStorm 插件，在右侧边显示代码迷你地图
 - [johnlindquist / AceJump](https://github.com/johnlindquist/AceJump) WebStorm 插件，强大的页面内跳转插件
+- [geekcompany / ResumeSample](https://github.com/geekcompany/ResumeSample) 程序员简历模板
+- [pornel / ImageOptim](https://github.com/pornel/ImageOptim) Mac 下一款非常棒的图片压缩工具
+- [jsdoc3 / jsdoc](https://github.com/jsdoc3/jsdoc) Javascript API 文档生成器
+- [thx/RAP](https://github.com/thx/RAP) 阿里巴巴接口管理系统
+- [rowanj/gitx](https://github.com/rowanj/gitx) Gitx-dev，比 Gitx 还要好，Mac 下的一个 Git GUI 工具
+- [blowsie / Pure-JavaScript-HTML5-Parser](https://github.com/blowsie/Pure-JavaScript-HTML5-Parser) Javascript 实现的一个 HTML5 解析器
+- [FortAwesome / Font-Awesome](https://github.com/FortAwesome/Font-Awesome) 图标字体
+- [hzlzh / Best-App](https://github.com/hzlzh/Best-App) 收集&推荐优秀的 Apps/硬件/技巧/周边等
+- [mstarke / MacPass](https://github.com/mstarke/MacPass) 原生的 OS X KeePass 客户端
 
 ### 五、有意思的项目
 
@@ -159,7 +186,6 @@
 - [stormzhang / 1024](https://github.com/stormzhang/1024) 针对程序员人群设计的一款健康快捷的全营养代餐
 - [jjuliano / markdown-ui](https://github.com/jjuliano/markdown-ui) 使用 Markdown 语言书写 UI
 - [mikrofusion / gulp-obfuscate](https://github.com/mikrofusion/gulp-obfuscate) Gulp 插件，以可爱的字符比如 ಠ_ಠ 等混淆 Javascript 代码
-- [austinhallock / html5-virtual-game-controller](https://github.com/austinhallock/html5-virtual-game-controller) 给 HTML5 游戏增加虚拟游戏手柄
 - [aemkei / jsfuck](https://github.com/aemkei/jsfuck) 使用这 6 个字母“]()!+”写 Javascript
 - [75team / thinkjs](https://github.com/75team/thinkjs) 基于 Promise 的 NodeJS MVC 框架
 - [Circa75 / dropplets](https://github.com/Circa75/dropplets) 一个支持 Markdown 的迷你博客系统
@@ -172,12 +198,40 @@
 - [apache / thrift](https://github.com/apache/thrift) Facebook 实现的一种高效的、支持多种编程语言的远程服务调用的框架
 - [github / hubot](https://github.com/github/hubot) GitHub 的开源运维机器人
 - [mozilla / firefox-ios](https://github.com/mozilla/firefox-ios) Firefox for iOS
+- [race604 / ZhiHuDaily-React-Native](https://github.com/race604/ZhiHuDaily-React-Native) 用 Android React Native 实现的一个知乎日报客户端
+- [speckjs / speckjs](https://github.com/speckjs/speckjs) 在 Javascript 注释里写单元测试代码
+- [adrai / flowchart.js](https://github.com/adrai/flowchart.js) 用文本描述流程图并生成 SVG
+- [bramp / js-sequence-diagrams](https://github.com/bramp/js-sequence-diagrams) 用文本描述时序图并生成 SVG
+- [fouber / page-diff](https://github.com/fouber/page-diff) 自动化比较两个页面的不同
+- [tylergaw / js-osx-app-examples](https://github.com/tylergaw/js-osx-app-examples) 用 Javascript 写 OS X 应用示例
+- [eligrey / FileSaver.js](https://github.com/eligrey/FileSaver.js) 使用 HTML5 实现“另存为”
+- [krasimir / deb.js](https://github.com/krasimir/deb.js) 约 1.5KB 的一个 Javascript 调试库
+- [hexojs / hexo](https://github.com/hexojs/hexo) 基于 NodeJS 实现的一个快速、简洁且高效的博客框架
+- [niklasvh / html2canvas](https://github.com/niklasvh/html2canvas) 使用 Javascript 截屏
+- [zddhub / opensse](https://github.com/zddhub/opensse) 开源的草图检索引擎
+- [BYVoid/OpenCC](https://github.com/BYVoid/OpenCC) 中文簡繁轉換開源項目，支持詞彙級別的轉換、異體字轉換和地區習慣用詞轉換（中國大陸、臺灣、香港）
+- [hxgdzyuyi/cjk-subsetter](https://github.com/hxgdzyuyi/cjk-subsetter) 中文字体切割的 Rack，原理是把页面中所有文字收集起来，动态生成一个字体文件，然后用 CSS 加载，大大减小中文字体文件大小
+- [meteor/meteor](https://github.com/meteor/meteor) 以破纪录的速度构建响应式 Web 应用程序，从概念到大规模部署
+
+#### 游戏框架
+
+- [BabylonJS / Babylon.js](https://github.com/BabylonJS/Babylon.js) 使用 HTML5 和 WebGL 开发 3D 游戏的 Javascript 框架
+- [austinhallock / html5-virtual-game-controller](https://github.com/austinhallock/html5-virtual-game-controller) 给 HTML5 游戏增加虚拟游戏手柄
+- [gamelab / kiwi.js](https://github.com/gamelab/kiwi.js)
+- [digitalfruit / limejs](https://github.com/digitalfruit/limejs)
+- [cykod / Quintus](https://github.com/cykod/Quintus) 使用其开发过一个游戏，并在 Apple App Store 上线，感觉很不错
+- [chr15m / jsGameSoup](https://github.com/chr15m/jsGameSoup)
+- [hunterloftis / newton](https://github.com/hunterloftis/newton)
+- [craftyjs / Crafty](https://github.com/craftyjs/Crafty)
+- [melonjs / melonJS](https://github.com/melonjs/melonJS)
+- [finscn / The-Best-JS-Game-Framework](https://github.com/finscn/The-Best-JS-Game-Framework)
 
 ### 六、开发工具包
 
 - [driftyco / ionic](https://github.com/driftyco/ionic) 用 Javascript 写原生应用
 - [facebook / react-native](https://github.com/facebook/react-native) 用 React 框架来开发原生应用
 - [TencentYouTu / nodejs_sdk](https://github.com/TencentYouTu/nodejs_sdk) 腾讯优图人脸识别服务 Node SDK
+- [JeremyWei / baidu-ocr](https://github.com/JeremyWei/baidu-ocr) 百度 OCR 文字识别
 - [bugtags / Bugtags-iOS](https://github.com/bugtags/Bugtags-iOS) BugTags iOS SDK
 - [bang590 / JSPatch](https://github.com/bang590/JSPatch) JSPatch bridge use for iOS hotfix
 - [node-webot / wechat](https://github.com/node-webot/wechat) 微信公共平台消息接口服务中间件
@@ -186,6 +240,8 @@
 - [jaredhanson / passport](https://github.com/jaredhanson/passport) 基于 NodeJS 的简单低调的身份验证
 - [luin / express-promise](https://github.com/luin/express-promise) 处理异步请求的中间件
 - [debitoor / multifetch](https://github.com/debitoor/multifetch) 批量请求合并 Express 中间件
+- [angular / angular-seed](https://github.com/angular/angular-seed) 快速启动一个 Angular 项目
+- [angular / material](https://github.com/angular/material) 用 Angular 实现的 Material Design
 - [angular / material-start](https://github.com/angular/material-start) 快速启动一个 Angular Material 项目
 - [austinhuminski / angular-django-admin](https://github.com/austinhuminski/angular-django-admin) 使用 AngularJS 复制 Django Admin 功能
 - [IronSummitMedia / startbootstrap-sb-admin-2](https://github.com/IronSummitMedia/startbootstrap-sb-admin-2) 一个免费开源的 Bootstrap Admin 主题
@@ -198,3 +254,22 @@
 - [esotalk / esoTalk](https://github.com/esotalk/esoTalk) 基于 PHP 和 MySQL 的论坛程序，快速简单强大
 - [h5bp / html5-boilerplate](https://github.com/h5bp/html5-boilerplate) 一个单纯的 HTML 模版
 - [mitsuhiko / jinja2](https://github.com/mitsuhiko/jinja2) Jinja2 模板引擎
+- [mcasimir / mobile-angular-ui](https://github.com/mcasimir/mobile-angular-ui) 使用 Bootstrap 3 和 Angular.js 的移动框架
+- [angular-ui / bootstrap](https://github.com/angular-ui/bootstrap) 使用原生 AngularJS directives 实现 Bootstrap
+
+#### 编辑器
+
+- [fex-team / ueditor](https://github.com/fex-team/ueditor)
+- [Alex-D / Trumbowyg](https://github.com/Alex-D/Trumbowyg)
+- [yaniswang / xhEditor](https://github.com/yaniswang/xhEditor)
+- [summernote / summernote](https://github.com/summernote/summernote)
+- [ckeditor / ckeditor-dev](https://github.com/ckeditor/ckeditor-dev)
+- [mycolorway / simditor](https://github.com/mycolorway/simditor)
+- [xing / wysihtml5](https://github.com/xing/wysihtml5)
+- [mindmup / bootstrap-wysiwyg](https://github.com/mindmup/bootstrap-wysiwyg)
+
+### 七、存档
+
+- [coliff / bootstrap-ie7](https://github.com/coliff/bootstrap-ie7) 让 IE7 也能用 Bootstrap 3
+- [scottjehl / Respond](https://github.com/scottjehl/Respond) 让 IE6~8 也能用 max/min-width、media queries 等
+- [aFarkas / html5shiv](https://github.com/aFarkas/html5shiv) 让低版本 IE 也能使用 HTML5 标签
