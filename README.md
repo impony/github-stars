@@ -1,6 +1,6 @@
 ## 我的 Github Star 整理
 
-> 整理至 2015.09.30
+> 整理至 2015.10.09
 
 ### 一、前端工程相关
 
@@ -123,6 +123,7 @@
 - [ruanyf / jstutorial](https://github.com/ruanyf/jstutorial) 阮一峰《JavaScript 标准参考教程》
 - [jtyjty99999/mobileTech](https://github.com/jtyjty99999/mobileTech) 这个项目收集移动端开发所需要的一些资源与小技巧
 - [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) 前端开发资源列表
+- [numbbbbb/the-swift-programming-language-in-chinese](https://github.com/numbbbbb/the-swift-programming-language-in-chinese) 中文版 Apple 官方 Swift 教程《The Swift Programming Language》
 
 #### 实例
 
@@ -212,6 +213,7 @@
 - [BYVoid/OpenCC](https://github.com/BYVoid/OpenCC) 中文簡繁轉換開源項目，支持詞彙級別的轉換、異體字轉換和地區習慣用詞轉換（中國大陸、臺灣、香港）
 - [hxgdzyuyi/cjk-subsetter](https://github.com/hxgdzyuyi/cjk-subsetter) 中文字体切割的 Rack，原理是把页面中所有文字收集起来，动态生成一个字体文件，然后用 CSS 加载，大大减小中文字体文件大小
 - [meteor/meteor](https://github.com/meteor/meteor) 以破纪录的速度构建响应式 Web 应用程序，从概念到大规模部署
+- [ampproject / amphtml](https://github.com/ampproject/amphtml) Google 推出的开源项目，用来提高网页加载速度
 
 #### 游戏框架
 
