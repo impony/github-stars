@@ -1,6 +1,6 @@
 ## 我的 Github Star 整理
 
-> 整理至 2015.10.09
+> 整理至 2015.10.23
 
 ### 一、前端工程相关
 
@@ -32,6 +32,7 @@
 - [allmobilize / amazeui](https://github.com/allmobilize/amazeui) 基于社区开源项目构建的一个跨屏前端框架
 - [frozenui / frozenjs](https://github.com/frozenui/frozenjs) 基于 Zepto 的移动端 JS 组件库
 - [frozenui / frozenui](https://github.com/frozenui/frozenui) FrozenUI 的 CSS 组件库，基于腾讯手Q样式规范
+- [weui / weui](https://github.com/weui/weui) WeUI是一套同微信原生视觉体验一致的基础样式库，由微信官方设计团队为微信 Web 开发量身设计，可以令用户的使用感知更加统一。包含button、cell、dialog、toast、article、icon等各式元素。
 - [jonobr1 / two.js](https://github.com/jonobr1/two.js) 2D 绘图 API
 - [subprotocol / verlet-js](https://github.com/subprotocol/verlet-js) 一个 Javascript 物理引擎
 - [bendc / sprint](https://github.com/bendc/sprint) 一个轻量级的类似 jQuery 的库
@@ -67,6 +68,7 @@
 - [ftlabs / fastclick](https://github.com/ftlabs/fastclick) 处理触屏设备点击延迟问题
 - [yoannmoinet / nipplejs](https://github.com/yoannmoinet/nipplejs) 虚拟摇杆
 - [ded / script.js](https://github.com/ded/script.js) 异步 Javascript 加载器和依赖管理器
+- [zenorocha / clipboard.js](https://github.com/zenorocha/clipboard.js) 复制到粘帖板
 
 #### 插件
 
@@ -84,6 +86,7 @@
 - [ichord / At.js](https://github.com/ichord/At.js) 基于 jQuery 的类似微博 @ 插件
 - [select2 / select2](https://github.com/select2/select2) 基于 jQuery 的一个强大的替代 select 的插件
 - [tarruda / bootstrap-datetimepicker](https://github.com/Eonasdan/bootstrap-datetimepicker) 基于 BootStrap 的日期插件
+- [jaysalvat / jquery.facedetection](https://github.com/jaysalvat/jquery.facedetection) 一个可以在图片、视频、以及 canvas 中进行人脸识别的 jQuery 插件
 
 #### CSS
 
@@ -121,9 +124,9 @@
 - [jmcunningham / AngularJS-Learning](https://github.com/jmcunningham/AngularJS-Learning) AngularJS 学习资料集合
 - [ruanyf / es6tutorial](https://github.com/ruanyf/es6tutorial) 阮一峰《ECMAScript 6入门》
 - [ruanyf / jstutorial](https://github.com/ruanyf/jstutorial) 阮一峰《JavaScript 标准参考教程》
-- [jtyjty99999/mobileTech](https://github.com/jtyjty99999/mobileTech) 这个项目收集移动端开发所需要的一些资源与小技巧
-- [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) 前端开发资源列表
-- [numbbbbb/the-swift-programming-language-in-chinese](https://github.com/numbbbbb/the-swift-programming-language-in-chinese) 中文版 Apple 官方 Swift 教程《The Swift Programming Language》
+- [jtyjty99999 / mobileTech](https://github.com/jtyjty99999/mobileTech) 这个项目收集移动端开发所需要的一些资源与小技巧
+- [dypsilon / frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) 前端开发资源列表
+- [numbbbbb / the-swift-programming-language-in-chinese](https://github.com/numbbbbb/the-swift-programming-language-in-chinese) 中文版 Apple 官方 Swift 教程《The Swift Programming Language》
 
 #### 实例
 
@@ -135,6 +138,7 @@
 - [facebook / flux](https://github.com/facebook/flux) Flux 是 Facebook 用户建立客户端 Web 应用的前端架构
 - [jeromeetienne / threex.proceduralcity](https://github.com/jeromeetienne/threex.proceduralcity) 基于 three.js 的一个模拟城市生成器
 - [requirejs / example-multipage](https://github.com/requirejs/example-multipage) 使用 RequireJS 的多页面项目配置示例
+- [austinzheng / swift-2048](https://github.com/austinzheng/swift-2048) 一个用 Swift 写的 2048 游戏实例
 
 #### 博客
 
@@ -177,6 +181,7 @@
 - [FortAwesome / Font-Awesome](https://github.com/FortAwesome/Font-Awesome) 图标字体
 - [hzlzh / Best-App](https://github.com/hzlzh/Best-App) 收集&推荐优秀的 Apps/硬件/技巧/周边等
 - [mstarke / MacPass](https://github.com/mstarke/MacPass) 原生的 OS X KeePass 客户端
+- [icons8 / welovesvg](https://github.com/icons8/welovesvg) 一个 SVG 图标库
 
 ### 五、有意思的项目
 
@@ -214,6 +219,13 @@
 - [hxgdzyuyi/cjk-subsetter](https://github.com/hxgdzyuyi/cjk-subsetter) 中文字体切割的 Rack，原理是把页面中所有文字收集起来，动态生成一个字体文件，然后用 CSS 加载，大大减小中文字体文件大小
 - [meteor/meteor](https://github.com/meteor/meteor) 以破纪录的速度构建响应式 Web 应用程序，从概念到大规模部署
 - [ampproject / amphtml](https://github.com/ampproject/amphtml) Google 推出的开源项目，用来提高网页加载速度
+- [ksky521 / nodePPT](https://github.com/ksky521/nodePPT) 作者说这可能是迄今为止最好的网页版 PPT
+- [Automattic / node-canvas](https://github.com/Automattic/node-canvas)  canvas 的 NodeJS 实现，基于 Cairo
+- [meltingice / CamanJS](https://github.com/meltingice/CamanJS) 可以通过调整参数在 canvas 中进行图片处理，自己也可以做个照片处理器啦
+- [meltingice / CamanJS-Plugins](https://github.com/meltingice/CamanJS-Plugins) 上一条的一些插件
+- [nylas / N1](https://github.com/nylas/N1) N1 是一个开源的邮件客户端，使用 Electron、React 和 Flux 打造
+- [LiuJi-Jim / h5pal](https://github.com/LiuJi-Jim/h5pal) 使用 Javascript 实现的《仙剑奇侠传》
+- [ejci / favico.js](https://github.com/ejci/favico.js) 在 favicon 大做文章，可以做标记、图片或者播放视频...
 
 #### 游戏框架
 
